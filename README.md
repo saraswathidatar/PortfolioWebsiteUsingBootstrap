@@ -5,4 +5,7 @@ Copyright (c) 2019 Saraswathi Govind Datar NA
 Introduction:
 Portfolio website created using HTML/CSS and Bootstrap developed for Full Stack Web Development in Summer 2019 at Portland State University.
 
-You can view my portfolio website deployed on http://web.cecs.pdx.edu/~saras3/index.html
+Getting Started:
+Git clone https://github.com/saraswathidatar/PortfolioWebsiteUsingBootstrap.git
+Using a command line tool, navigate to project directory.
+You can find my portfolio website by clicking on index.html 
